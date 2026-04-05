@@ -16,7 +16,7 @@ A Python-based GUI application for analyzing Protein-Protein Interaction (PPI) n
 - Export Results: Save analysis results as CSV files for further analysis
 
 ## Project Structure
-
+```
 Project Files/
 ├── data/                    # Input data files
 │   ├── DREB2A_A.thaliana.tsv     # PPI network data
@@ -32,7 +32,7 @@ Project Files/
 │   ├── PNetAnalyzer.png    # GUI application icon
 │   └── gui_app.py          # GUI application
 └── README.md
-
+```
 
 ## Installation
 
